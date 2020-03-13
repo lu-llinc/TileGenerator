@@ -10,6 +10,15 @@ _tmp*
 tmp*
 tags
 
+# Project specific files
+my_mapbox_settings.yaml
+tile_generator_working.ipynb
+lat_lon_bods.csv
+elevation/
+images/
+labels/
+mask_B/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

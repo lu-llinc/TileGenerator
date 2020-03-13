@@ -1,0 +1,38 @@
+MAPBOX_ACCESS_TOKEN: pk.eyJ1IjoiYWNzd2F2aW5nI...
+
+ids:
+    water:
+        type: style 
+        user: acswaving
+        key: ck029aaho2yjt1cmfz4zqgb5x
+        file_name: None
+    roads: 
+        type: style 
+        user: acswaving
+        key: ck02cmpgh085w1cqos2dkt4lk
+        file_name: None
+    elevation:
+        type: map 
+        user: mapbox
+        key: terrain-rgb
+        file_name: elevation
+    featureMask:
+        type: style 
+        user: acswaving 
+        key: ck03nhyp8035m1cmmgms2mtsp
+        file_name: mask
+    featureMaskWood:
+        type: style 
+        user: acswaving
+        key: ck1hlpiog643s1cp1j620dx1t
+        file_name: mask
+    streets:
+        type: style
+        user: mapbox
+        key: streets-v11
+        file_name: None
+    satellite:
+        type: style
+        user: mapbox 
+        key: satellite-v9
+        file_name: images
