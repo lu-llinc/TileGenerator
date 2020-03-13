@@ -18,6 +18,7 @@ elevation/
 images/
 labels/
 mask_B/
+~.pypirc
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
