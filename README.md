@@ -1,8 +1,6 @@
-# Project name here
-> Summary description here.
+# TileGenerator
+> Convenience functions for use of Mapbox API for Deep Learning
 
-
-This file will become your README and also the index of your documentation.
 
 ## Install
 
@@ -10,15 +8,4 @@ This file will become your README and also the index of your documentation.
 
 ## How to use
 
-Fill me in please! Don't forget code examples:
-
-```
-1+1
-```
-
-
-
-
-    2
-
-
+Use this library in conjunction with [Mapbox](https://www.mapbox.com/) to generate satellite imagery tiles or related style tiles.
